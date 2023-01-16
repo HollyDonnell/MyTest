@@ -28,11 +28,11 @@ Hi!
 </details>
 
 Let's make a drop down also a subheading
-<details>
-# <summary>Hello Hello</summary>
+# <details>
+<summary>Hello Hello</summary>
 Did it work?
-</details>
-
+# </details>
+**No - how do I get this to work?**
 
 Lets add a comment to remind ourselves this needs updating. The comment should not be visble on the page... can you see it?
 <!--we need to update this asap-->
