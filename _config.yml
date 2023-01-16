@@ -2,4 +2,4 @@ title: Minimal theme
 description: To test out hosting content on GitHub
 show_downloads: false
 google_analytics:
-theme: minimal
+theme: jekyll-theme-minimal
