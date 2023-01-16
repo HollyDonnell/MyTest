@@ -1,2 +1,2 @@
 # QualityCollegeTest
-Testing out the functionality of GitHub for Quality College
+A gateway to the Training and Guidance Resources available on Statistical and Analytical Quality
